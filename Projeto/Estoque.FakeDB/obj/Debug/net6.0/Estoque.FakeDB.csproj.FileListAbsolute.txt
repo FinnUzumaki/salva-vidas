@@ -1,0 +1,15 @@
+c:\Users\Aluno\Documents\cs\Atividade\Estoque.FakeDB\bin\Debug\net6.0\Estoque.FakeDB.deps.json
+c:\Users\Aluno\Documents\cs\Atividade\Estoque.FakeDB\bin\Debug\net6.0\Estoque.FakeDB.dll
+c:\Users\Aluno\Documents\cs\Atividade\Estoque.FakeDB\bin\Debug\net6.0\Estoque.FakeDB.pdb
+c:\Users\Aluno\Documents\cs\Atividade\Estoque.FakeDB\bin\Debug\net6.0\Estoque.Dominio.dll
+c:\Users\Aluno\Documents\cs\Atividade\Estoque.FakeDB\bin\Debug\net6.0\Estoque.Dominio.pdb
+c:\Users\Aluno\Documents\cs\Atividade\Estoque.FakeDB\obj\Debug\net6.0\Estoque.FakeDB.csproj.AssemblyReference.cache
+c:\Users\Aluno\Documents\cs\Atividade\Estoque.FakeDB\obj\Debug\net6.0\Estoque.FakeDB.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Aluno\Documents\cs\Atividade\Estoque.FakeDB\obj\Debug\net6.0\Estoque.FakeDB.AssemblyInfoInputs.cache
+c:\Users\Aluno\Documents\cs\Atividade\Estoque.FakeDB\obj\Debug\net6.0\Estoque.FakeDB.AssemblyInfo.cs
+c:\Users\Aluno\Documents\cs\Atividade\Estoque.FakeDB\obj\Debug\net6.0\Estoque.FakeDB.csproj.CoreCompileInputs.cache
+c:\Users\Aluno\Documents\cs\Atividade\Estoque.FakeDB\obj\Debug\net6.0\Estoque.FakeDB.csproj.CopyComplete
+c:\Users\Aluno\Documents\cs\Atividade\Estoque.FakeDB\obj\Debug\net6.0\Estoque.FakeDB.dll
+c:\Users\Aluno\Documents\cs\Atividade\Estoque.FakeDB\obj\Debug\net6.0\refint\Estoque.FakeDB.dll
+c:\Users\Aluno\Documents\cs\Atividade\Estoque.FakeDB\obj\Debug\net6.0\Estoque.FakeDB.pdb
+c:\Users\Aluno\Documents\cs\Atividade\Estoque.FakeDB\obj\Debug\net6.0\ref\Estoque.FakeDB.dll

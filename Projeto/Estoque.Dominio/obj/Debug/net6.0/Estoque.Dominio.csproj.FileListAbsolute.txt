@@ -1,0 +1,12 @@
+c:\Users\Aluno\Documents\cs\Atividade\Estoque.Dominio\obj\Debug\net6.0\Estoque.Dominio.csproj.AssemblyReference.cache
+c:\Users\Aluno\Documents\cs\Atividade\Estoque.Dominio\obj\Debug\net6.0\Estoque.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Aluno\Documents\cs\Atividade\Estoque.Dominio\obj\Debug\net6.0\Estoque.Dominio.AssemblyInfoInputs.cache
+c:\Users\Aluno\Documents\cs\Atividade\Estoque.Dominio\obj\Debug\net6.0\Estoque.Dominio.AssemblyInfo.cs
+c:\Users\Aluno\Documents\cs\Atividade\Estoque.Dominio\obj\Debug\net6.0\Estoque.Dominio.csproj.CoreCompileInputs.cache
+c:\Users\Aluno\Documents\cs\Atividade\Estoque.Dominio\bin\Debug\net6.0\Estoque.Dominio.deps.json
+C:\Users\Aluno\Documents\cs\Atividade\Estoque.Dominio\bin\Debug\net6.0\Estoque.Dominio.dll
+C:\Users\Aluno\Documents\cs\Atividade\Estoque.Dominio\bin\Debug\net6.0\Estoque.Dominio.pdb
+C:\Users\Aluno\Documents\cs\Atividade\Estoque.Dominio\obj\Debug\net6.0\Estoque.Dominio.dll
+C:\Users\Aluno\Documents\cs\Atividade\Estoque.Dominio\obj\Debug\net6.0\refint\Estoque.Dominio.dll
+C:\Users\Aluno\Documents\cs\Atividade\Estoque.Dominio\obj\Debug\net6.0\Estoque.Dominio.pdb
+c:\Users\Aluno\Documents\cs\Atividade\Estoque.Dominio\obj\Debug\net6.0\ref\Estoque.Dominio.dll

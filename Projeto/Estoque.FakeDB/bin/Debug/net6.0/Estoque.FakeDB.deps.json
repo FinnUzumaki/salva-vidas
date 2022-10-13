@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Estoque.FakeDB/1.0.0": {
+        "dependencies": {
+          "Estoque.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "Estoque.FakeDB.dll": {}
+        }
+      },
+      "Estoque.Dominio/1.0.0": {
+        "runtime": {
+          "Estoque.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Estoque.FakeDB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Estoque.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
